@@ -1,0 +1,8 @@
+version: 1
+roles:
+  - id: devops
+    description: devops
+    resources:
+      knowledge: &a1
+        - devops
+      skills: *a1
